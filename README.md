@@ -67,3 +67,8 @@
     Ethnic: 인종 정보
     ReferralsMadeBySubscriber: 가입자가 한 추천 수
 </details>
+
+
+## Reference
+
+[이동통신사 고객데이터 분석 및 이탈예측 모델 제안](https://yeong-jin-data-blog.tistory.com/entry/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9D%B4%EB%8F%99%ED%86%B5%EC%8B%A0%EC%82%AC-%EA%B3%A0%EA%B0%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EC%9D%B4%ED%83%88%EC%98%88%EC%B8%A1-%EB%AA%A8%EB%8D%B8-%EC%A0%9C%EC%95%88) - 프로젝트 참고 자료
